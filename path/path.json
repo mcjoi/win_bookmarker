@@ -1,0 +1,53 @@
+{
+  "name": [
+    "groupware",
+    "myblog",
+    "myblog\nadmin",
+    "chatGPT",
+    "adsense",
+    "kakaotalk",
+    "excel2019",
+    "ESPANSO",
+    "scrcpy",
+    "jpgToWebp",
+    "FOLDER\nWORK",
+    "FOLDER\nCOMMON",
+    "FOLDER\nXlstart",
+    "FOLDER\npath.json",
+    "refresh"
+  ],
+  "img": [
+    "./path\\img\\0.png",
+    "./path\\img\\2.png",
+    "./path\\img\\logo.webp",
+    "./path\\img\\chatGPT.png",
+    "./path\\img\\adsense.png",
+    "./path\\img\\kakao.webp",
+    "./path\\img\\ex.png",
+    "./path\\img\\espan.png",
+    "./path\\img\\scrpy.png",
+    "./path\\img\\webp-devsite-icon_72.png",
+    "./path\\img\\folder.webp",
+    "./path\\img\\folder.webp",
+    "./path\\img\\folder.webp",
+    "./path\\img\\folder.webp",
+    "./path\\img\\ref.png"
+  ],
+  "link": [
+    "https://gw.chamc.co.kr",
+    "https://sunnybong.tistory.com",
+    "https://sunnybong.tistory.com/manage",
+    "https://www.chatGPT.com",
+    "https://adsense.google.com",
+    "C:\\Program Files (x86)\\Kakao\\KakaoTalk\\KakaoTalk.exe",
+    "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.exe",
+    "C:\\Users\\bong\\Desktop\\__바로가기\\program\\espanso-portable\\START_ESPANSO3.bat",
+    "C:\\Users\\bong\\Desktop\\__바로가기\\program\\scrcpy-win64-v2.6.1\\scrcpy.bat",
+    "E:\\FOR_programming\\py\\jpgToWebp\\jpgToWebp.bat",
+    "D:\\works",
+    "Y:\\[IT사업본부] 기획팀",
+    "C:\\Users\\bong\\AppData\\Roaming\\Microsoft\\Excel\\XLSTART",
+    "C:\\Users\\bong\\Desktop\\__바로가기\\program\\desktop\\path",
+    "https://sunnybong.tistory.com"
+  ]
+}
